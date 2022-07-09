@@ -14,7 +14,6 @@ C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\bin\Debug\netcoreapp3.1\Newtonsof
 C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\obj\Debug\netcoreapp3.1\StatesNLgas.csproj.AssemblyReference.cache
 C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\obj\Debug\netcoreapp3.1\StatesNLgas.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\obj\Debug\netcoreapp3.1\StatesNLgas.AssemblyInfoInputs.cache
 C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\obj\Debug\netcoreapp3.1\StatesNLgas.AssemblyInfo.cs
@@ -27,3 +26,4 @@ C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\obj\Debug\netcoreapp3.1\StatesNLg
 C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\obj\Debug\netcoreapp3.1\StatesNLgas.dll
 C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\obj\Debug\netcoreapp3.1\StatesNLgas.pdb
 C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\obj\Debug\netcoreapp3.1\StatesNLgas.genruntimeconfig.cache
+C:\Users\hp\Desktop\C#\StatesNLgas\StatesNLgas\obj\Debug\netcoreapp3.1\StatesNLgas.csproj.AssemblyReference.cache
